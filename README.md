@@ -53,7 +53,7 @@ No extra dependencies are required beyond Python itself.
 4. Run:
 
    ```bash
-   python quiz_cli.py
+   python quiz.py
    ```
 
 ##### CLI Usage
@@ -109,7 +109,3 @@ Unit tests are provided to verify the functionality of the CLI and GUI versions 
 ### Contact
 
 For any questions or concerns, please feel free to reach out to me at <iamluckycheema@gmail.com>.
-
----
-
-This README provides a clear guide for users on how to set up, run, and customize your quiz game, with a structure similar to the To-Do List Application README you shared. Let me know if you'd like any further adjustments!
